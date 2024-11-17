@@ -58,7 +58,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
-- Security Tool Optimization
+- <a href = "https://github.com/achinanya/Security-Tool-Optimization/blob/main/README.md">Security Tool Optimization</a>
 - Cyber Drill and Cyber Wargame
 - Social Engineering Activities
 - Application Business Logic Review
