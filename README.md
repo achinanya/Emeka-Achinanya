@@ -58,3 +58,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Security Tool Optimization
+- Cyber Drill and Cyber Wargame
+- Social Engineering Activities
+- Application Business Logic Review
+- Source Code Review
+- SOC Strategy Review
+- SOC Layout Review
+- Vulnerability Assessment and Penitration Testing
+- Cloud Security Assessment
+- Security Architecture and Third Party Connections Review
